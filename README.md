@@ -94,7 +94,7 @@ You can interact with the deployed contracts using:
 ## 📺 Tutorial
 
 🎥 **Solidity CrowdFunding Project | Solidity Project | Live Class + Live Solving Demo | Hindi**
-👉 *\[Insert YouTube or blog link here]*
+👉 *\[https://www.youtube.com/watch?v=2SNr-PJmcZE]*
 
 ---
 
